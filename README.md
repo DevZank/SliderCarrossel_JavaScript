@@ -26,4 +26,5 @@ Este projeto é um tutorial da landing page **Smoothie Bowls** ao usar _HTML_, _
 ## 📺 Tutorial no Youtube
 
 <a href="https://youtu.be/uectf16wvY8?si=EDFCOLezKjzt4SoF" target="_blank">
+  Link
 </a>
